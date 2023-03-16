@@ -5,7 +5,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeonghwa%20Heo&fontSize=70)
 <!--
-<h2 align="center"> 😎 I am currently looking for great opportunity as a backend developer 😎 </h2> 
+<h2 align="center"> 작심삼일을 꾸준히 </h2> 
 <br>
 <p align="center">
 Hi there 👋
@@ -18,7 +18,7 @@ I love to contribute open source projects too 😁
 &nbsp
 &nbsp
 -->
-<h1 align="center"> 🛠 Tech Stack 🛠 </h1>
+<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -31,7 +31,7 @@ I love to contribute open source projects too 😁
 <br>
 <br/>
 
-<h1 align="center"> 🌟 Activities 🌟</h1>
+<h2 align="center"> 📈 GitHub History 📈 </h2>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoa0217&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
