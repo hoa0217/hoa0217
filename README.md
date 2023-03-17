@@ -7,7 +7,7 @@
 
 <h3 align="center">My goal is to become a developer who exerts a positive influence.🤗</h3>
 
-<h4 align="center"> I love it : 📚study 🐈cat 🥐bread ✈travle 🏊‍swim </h4>
+<h4 align="center"> I love it &nbsp:&nbsp 📚studying &nbsp 🐈cat &nbsp 🥐bread &nbsp ✈traveling &nbsp 🏊‍swimming</h4>
 </p>
 <br>
 <br>
