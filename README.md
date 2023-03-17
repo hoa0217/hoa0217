@@ -3,21 +3,16 @@
  <span><img src="https://img.shields.io/badge/gjwjdghk123@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><span>
 </div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeonghwa%20Heo&fontSize=70)
-<!--
-<h2 align="center"> 작심삼일을 꾸준히 </h2> 
-<br>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jeonghwa%20Heo&fontAlign=70&fontAlignY=40&color=gradient&desc=backend-developer&descAlignY=65&descAlign=88)
+
 <p align="center">
-Hi there 👋
 <br>
-My goal is to create new framework or programming language to contribute the world :sparkler:
+My goal is to become a developer who exerts a positive influence.
 <br>
-I love to contribute open source projects too 😁
+<h4 align="center"> I love it : 📚study 🐈cat 🥐bread ✈travle 🏊‍swim </h4>
 </p>
-<h4 align="center"> Hobbies: 📚 🌴 🏃‍♀️ 🚴‍♀️ <br> Languages: 🇰🇷 🇺🇸 </h4>
-&nbsp
-&nbsp
--->
+<br>
+<br>
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a> 
