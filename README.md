@@ -5,7 +5,7 @@
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jeonghwa%20Heo&fontAlign=70&fontAlignY=40&color=gradient&desc=backend-developer&descAlignY=65&descAlign=88)
 
-<h3 align="center">My goal is to become a developer who exerts a positive influence.🤗</h3>
+<h3 align="center">My goal is to become a developer with a positive impact.🤗</h3>
 
 <h4 align="center"> I love it &nbsp:&nbsp 📚studying &nbsp 🐈cat &nbsp 🥐bread &nbsp ✈traveling &nbsp 🏊‍swimming</h4>
 </p>
